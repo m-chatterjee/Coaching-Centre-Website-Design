@@ -1,6 +1,6 @@
 # Coaching-Centre-Website-Design
 
-This is a basic front-end design of a coaching centre landing page website. 
+This is a basic front-end design of a coaching centre website landing page . 
 I used HTML5 and CSS3 only. I am still learning CSS.
 It is a static page. 
 The form in the website has no backend as of now.
