@@ -36,13 +36,13 @@
                 <input type="text" name="studentName" placeholder="Enter your name">
                 <input type="email" name="studentEmail" placeholder="Enter your email">
                 <input type="tel" name="studentPhone" placeholder="Enter your phone number">
-                <input type="text" name="studentDOB" placeholder="Enter your date of birth">
+                <input type="text" name="studentDOB" placeholder="Enter your date of birth" onfocus="(this.type='date')" onblur="(this.type='text')">
                 <input type="text" name="studentSchool" placeholder="Enter your school name">
                 <input type="number" name="studentPhyMarks" placeholder="Enter your physics marks in 10th board">
                 <input type="number" name="studentTotalMarks" placeholder="Enter your total marks in 10th board">
             </div>
-            <input type="submit" value="Submit" class="submitReset_btn">
-            <input type="reset" value="Reset all" class="submitReset_btn">
+            <input type="submit" value="Submit" id="submit_btn" class="submitReset_btn">
+            <input type="reset" value="Reset all" id="reset_btn" class="submitReset_btn">
         </form>
     </div>
 
