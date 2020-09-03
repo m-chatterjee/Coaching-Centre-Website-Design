@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PrepBoost</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/indexStyle.css">
     <link href="fonts/BalooBhai2-Bold.ttf" rel="stylesheet">
 </head>
 
@@ -31,7 +33,7 @@
 
     <div class="container">
         <h1>Join the best physics coaching of Kolkata now</h1>
-        <form action="#">
+        <form action="controller" method="post">
             <div class="form-inputs">
                 <input type="text" name="studentName" placeholder="Enter your name">
                 <input type="email" name="studentEmail" placeholder="Enter your email">
