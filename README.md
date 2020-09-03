@@ -1,4 +1,4 @@
-# Coaching-Centre-Website-Design
+# Coaching-Centre-Website
 
 This is a basic coaching centre website landing page .
 Only HTML5 &  very basic CSS3 is used in the front-end.
