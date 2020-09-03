@@ -1,7 +1,8 @@
 # Coaching-Centre-Website-Design
 
-This is a basic front-end design of a coaching centre website landing page . 
-I used HTML5 and CSS3 only. I am still learning CSS.
-It is a static page. 
-The form in the page has no backend as of now.
-The other pages & the backend will be implemented very soon.
+This is a basic coaching centre website landing page .
+Only HTML5 & CSS3 is used in the front-end.
+It is a maven project running on tomcat 8.5. 
+Servlet & JSP is used in the backend which is connected to a mysql database. 
+I deployed the project in AWS Elastic Beanstalk connected to AWS RDS mysql database.
+URL: http://prepboostwebapp-new-env.eba-xfbtfrg2.us-east-2.elasticbeanstalk.com/
