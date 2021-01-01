@@ -5,5 +5,5 @@ Only HTML5 &  very basic CSS3 is used in the front-end. CSS design is not respon
 Other pages of the navigation bar is not implemented.
 It is a maven project running on tomcat 8.5. 
 Servlet & JSP is used in the backend which is connected to a mysql database. 
-I deployed the project in AWS Elastic Beanstalk connected to AWS RDS mysql database.
+
 
